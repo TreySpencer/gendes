@@ -1,0 +1,15 @@
+Package: gendes
+Type: Package
+Title: Sample Size and Power Functions for Relative Potency Studies
+Version: 0.0.0.9000
+Authors@R: c(
+    person("Trey", "Spencer", email = "hjspencer@uams.edu", role = c("aut", "cre")),
+    person("Reid", "Landes", email = "RDLandes@uams.edu", role = "aut"),
+    person("Songthip", "Ounpraseuth", email = "STOunpraseuth@uams.edu"))
+Description: Sample size and power functiions for relative potency studies. The
+    functions in this package are based on the work of Kodell et. al. (2010) who
+    present a sample-size formula based on the Student's **t** for comparative
+    potency testing.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
